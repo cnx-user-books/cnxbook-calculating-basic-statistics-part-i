@@ -1,0 +1,175 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Typing Survey Data Into SPSS</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40713</md:content-id>
+  <md:title>Typing Survey Data Into SPSS</md:title>
+  <md:abstract/>
+  <md:uuid>fb8de252-82c8-4964-b2be-786fdb1bf4c6</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-427"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-117">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.
+</note><list id="eip-506" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+	<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+</list><para id="id1164676215478"><emphasis>In this chapter, we will show you how to enter data from a survey into SPSS. You can either develop your SPSS data file straight from your survey and then enter in data once your surveys have been completed. Or, you can develop your SPSS data file from your completed surveys. In this set of steps and screenshots, we will assume that you have completed surveys on hand. In our example, we will use the following survey: </emphasis></para>
+    <para id="id1164680863005"><link url="4.1.png/image" window="new">
+		<media id="media1" alt="">
+			<image mime-type="image/png" src="../../media/4.1.png" id="figure1"/>
+		</media>
+	</link></para>
+    <para id="id1164684155850"><emphasis>You will note that this survey consists of five items, with a 4-point Likert format. We have assigned a value of 1 to Strongly Agree; a value of 2 to Agree; a value of 3 to Disagree; and a value of 4 to Strongly Disagree. You could, of course, reverse these values so that Strongly Disagree could be a 1.</emphasis></para>
+    <para id="id1164680794680"><link url="4.2.png/image" window="new">
+		<media id="media2" alt="">
+			<image mime-type="image/png" src="../../media/4.2.png" id="figure2"/>
+		</media>
+	</link></para>
+    <para id="id1164682426006"><emphasis>Open up your SPSS so that you have a blank data screen in front of you. Click on the Variable View button at the bottom left of your screen.</emphasis></para>
+    <para id="id1164693354763"><link url="4.3.png/image" window="new">
+		<media id="media3" alt="">
+			<image mime-type="image/png" src="../../media/4.3.png" id="figure3"/>
+		</media>
+	</link></para>
+    <para id="id1164682176708"><emphasis>We are now at the screen where we can enter in variable names for our survey items. For simplicity, we will refer to the first Survey Item as S1; the second Survey Item as S2; and so on. We will click in the first cell, row one, under Name.</emphasis></para>
+    <para id="id1164674670362"><link url="4.4.png/image" window="new">
+		<media id="media4" alt="">
+			<image mime-type="image/png" src="../../media/4.4.png" id="figure4"/>
+		</media>
+	</link></para>
+    <para id="id1164685513730"><emphasis>Doing this permits us to type in S1 for our first Survey Item.</emphasis></para>
+    <para id="id1164674200154"><link url="4.5.png/image" window="new">
+		<media id="media5" alt="">
+			<image mime-type="image/png" src="../../media/4.5.png" id="figure5"/>
+		</media>
+	</link></para>
+    <para id="id1164674732535"><emphasis>After typing in S1, then move your cursor to the column that reads Label. Once you have typed in S1 and moved your cursor out of that cell, SPSS will fill in the default values for that variable. This variable is a numeric one. In the column marked Label, we will place in the survey item from the Word file.</emphasis></para>
+    <para id="id1164699031150"><link url="4.6.png/image" window="new">
+		<media id="media6" alt="">
+			<image mime-type="image/png" src="../../media/4.6.png" id="figure6"/>
+		</media>
+	</link></para>
+    <para id="id1164679149101"><emphasis>If you have the survey in Word format, have your Word file opened and copy the first survey item.</emphasis></para>
+    <para id="id1164704901686"><link url="4.71.png/image" window="new">
+		<media id="media7" alt="">
+			<image mime-type="image/png" src="../../media/4.7.png" id="figure7"/>
+		</media>
+	</link></para>
+    <para id="id1164679675284"><emphasis>Go back to your SPSS datafile and paste the copied survey item in the Label column, first row.</emphasis></para>
+    <para id="id1164684871249"><link url="4.8.png/image" window="new">
+		<media id="media8" alt="">
+			<image mime-type="image/png" src="../../media/4.8.png" id="figure8"/>
+		</media>
+	</link></para>
+    <para id="id1164683370146"><emphasis>Repeat this process for S2.</emphasis></para>
+    <para id="id1164675456133"><link url="4.9.png/image" window="new">
+		<media id="media9" alt="">
+			<image mime-type="image/png" src="../../media/4.9.png" id="figure9"/>
+		</media>
+	</link></para>
+    <para id="id1164691169343"><emphasis>Go to your Word file and copy the second survey item.</emphasis></para>
+    <para id="id1164699535605"><link url="4.10.png/image" window="new">
+		<media id="media10" alt="">
+			<image mime-type="image/png" src="../../media/4.10.png" id="figure10"/>
+		</media>
+	</link></para>
+    <para id="id1164681668981"><emphasis>Paste it in the Label column for the second row.</emphasis></para>
+    <para id="id1164691783563"><link url="4.11.png/image" window="new">
+		<media id="media11" alt="">
+			<image mime-type="image/png" src="../../media/4.11.png" id="figure11"/>
+		</media>
+	</link></para>
+    <para id="id1164692466204"><emphasis>You would repeat the same process for the remaining survey items. After this work, your file would look like the following.</emphasis></para>
+    <para id="id1164674628684"><link url="4.12.png/image" window="new">
+		<media id="media12" alt="">
+			<image mime-type="image/png" src="../../media/4.12.png" id="figure12"/>
+		</media>
+	</link></para>
+    <para id="id1164684353785"><emphasis>Now we need to type in the values for the 4-point Likert scale. To do so, click on the first cell in row one under the column heading, Values. See the arrow below. </emphasis></para>
+    <para id="id1164683534522"><link url="4.13.png/image" window="new">
+		<media id="media13" alt="">
+			<image mime-type="image/png" src="../../media/4.13.png" id="figure13"/>
+		</media>
+	</link></para>
+    <para id="id1164674102550"><emphasis>When you click in this cell, three dots appear. These three dots indicate that a screen is hidden beneath this one. Click on the three dots.</emphasis></para>
+    <para id="id1164676182205"><link url="4.4.png/image" window="new">
+		<media id="media14" alt="">
+			<image mime-type="image/png" src="../../media/4.14.png" id="figure14"/>
+		</media>
+	</link></para>
+    <para id="id1164683365278"><emphasis>After clicking on the three dots, the following screen will appear.</emphasis></para>
+    <para id="id1164693783901"><link url="4.15png/image" window="new">
+		<media id="media15" alt="">
+			<image mime-type="image/png" src="../../media/4.15.png" id="figure15"/>
+		</media>
+	</link></para>
+    <para id="id1164696494551"><emphasis>In this screen, we will type in a numeric value in the Value cell and the Likert-format response label in the Label cell. That is, our four values are 1, 2, 3, and 4, which correspond to a Strongly Agree, Agree, Disagree, and Strongly Disagree. Refer back to the survey which we are using for this example.</emphasis></para>
+    <para id="id1164674214628"><link url="4.16png/image" window="new">
+		<media id="media16" alt="">
+			<image mime-type="image/png" src="../../media/4.16.png" id="figure16"/>
+		</media>
+	</link></para>
+    <para id="id1164680952834">
+      <emphasis effect="bold">After typing in a 1 in Value and Strongly Agree in Label, we will now click on Add.</emphasis>
+    </para>
+    <para id="id1164675686390"><link url="4.17.png/image" window="new">
+		<media id="media17" alt="">
+			<image mime-type="image/png" src="../../media/4.17.png" id="figure17"/>
+		</media>
+	</link></para>
+    <para id="id1164672543729"><emphasis>After clicking on Add, your screen should look like the one below.</emphasis></para>
+    <para id="id1164704939004"><link url="4.18.png/image" window="new">
+		<media id="media18" alt="">
+			<image mime-type="image/png" src="../../media/4.18.png" id="figure18"/>
+		</media>
+	</link></para>
+    <para id="id1164682595259"><emphasis>We will repeat this process for 2 Agree; 3 Disagree; and 4 Strongly Disagree. Your screen should look like the one below.</emphasis></para>
+    <para id="id1164696496587"><link url="4.19.png/image" window="new">
+		<media id="media19" alt="">
+			<image mime-type="image/png" src="../../media/4.19.png" id="figure19"/>
+		</media>
+	</link></para>
+    <para id="id1164674128198"><emphasis>Now click on OK.</emphasis></para>
+    <para id="id1164674525926"><link url="4.20.png/image" window="new">
+		<media id="media20" alt="">
+			<image mime-type="image/png" src="../../media/4.20.png" id="figure20"/>
+		</media>
+	</link></para>
+    <para id="id1164681207607"><emphasis>Your screen should now look like the following one. The 4-point Likert scale has been successfully entered for the first survey item. Now we will copy it and paste it one at a time for the other four survey items.</emphasis></para>
+    <para id="id1164674117201"><link url="4.21.png/image" window="new">
+		<media id="media21" alt="">
+			<image mime-type="image/png" src="../../media/4.21.png" id="figure21"/>
+		</media>
+	</link></para>
+    <para id="id1164687141628"><emphasis>Right mouse click on the cell that you just completed.</emphasis></para>
+    <para id="id1164684374842"><emphasis>Copy.</emphasis></para>
+    <para id="id1164673606664"><link url="4.22.png/image" window="new">
+		<media id="media22" alt="">
+			<image mime-type="image/png" src="../../media/4.22.png" id="figure22"/>
+		</media>
+	</link></para>
+    <para id="id1164692828700"><emphasis>Move to the second cell in the Label column.</emphasis></para>
+    <para id="id1164700561578"><emphasis>Paste.</emphasis></para>
+    <para id="id1164679762139"><link url="4.23.png/image" window="new">
+		<media id="media23" alt="">
+			<image mime-type="image/png" src="../../media/4.23.png" id="figure23"/>
+		</media>
+	</link></para>
+    <para id="id1164674590565">
+      <emphasis effect="bold">Your screen will now have that cell filled in with the same information that you typed in for survey item one. Repeat this paste process for survey items 3, 4, and 5.</emphasis>
+    </para>
+    <para id="id1164690642452"><link url="4.24.png/image" window="new">
+		<media id="media24" alt="">
+			<image mime-type="image/png" src="../../media/4.24.png" id="figure24"/>
+		</media>
+	</link></para>
+    <para id="id1164690755549"><emphasis>Your screen will now look like the following one. All of your survey items are present and typed out in the Label column. All of the numeric values for participants’ responses are labeled in the Values column. Remember to save your file.</emphasis></para>
+    <para id="id1164674655168"><link url="4.25.png/image" window="new">
+		<media id="media25" alt="">
+			<image mime-type="image/png" src="../../media/4.25.png" id="figure25"/>
+		</media>
+	</link></para>
+    <para id="id1164676017610"><emphasis>You have now successfully created a SPSS dataset for your survey.</emphasis></para>
+  </content>
+</document>

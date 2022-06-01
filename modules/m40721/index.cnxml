@@ -1,0 +1,82 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Internal Consistency Analysis: Part III</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40721</md:content-id>
+  <md:title>Internal Consistency Analysis: Part III</md:title>
+  <md:abstract/>
+  <md:uuid>fae5f9d4-dcbc-4e9c-86d7-15443209bed5</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-505"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-815">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.
+
+</note><list id="eip-38" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+	<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+</list><para id="id1171969902861"><emphasis>Once the four Performance subscales have been sent to the Items box, your screen would look like the following one: </emphasis></para>
+    <para id="id1171956700736"><link url="7.1.png/image" window="new">
+		<media id="media1" alt="">
+			<image mime-type="image/png" src="../../media/7.1.png" id="figure1"/>
+		</media>
+	</link></para>
+    <para id="id1171948733574"><emphasis>Next, click on Statistics.</emphasis></para>
+    <para id="id1171950750645"><link url="7.2.png/image" window="new">
+		<media id="media2" alt="">
+			<image mime-type="image/png" src="../../media/7.2.png" id="figure2"/>
+		</media>
+	</link></para>
+    <para id="id1171948877501"><emphasis>You will note that all of the items you had clicked on when conducting the previous internal consistency analysis remain active.</emphasis></para>
+    <para id="id1171957413105"><emphasis>Click on Continue.</emphasis></para>
+    <para id="id1171948482664"><link url="7.3.png/image" window="new">
+		<media id="media3" alt="">
+			<image mime-type="image/png" src="../../media/7.3.png" id="figure3"/>
+		</media>
+	</link></para>
+    <para id="id1171973824382"><emphasis>Click on OK and this internal consistency analysis will be conducted.</emphasis></para>
+    <para id="id1171950926094"><link url="7.4.png/image" window="new">
+		<media id="media4" alt="">
+			<image mime-type="image/png" src="../../media/7.4.png" id="figure4"/>
+		</media>
+	</link></para>
+    <para id="id1171973807620"><emphasis>SPSS should place you in the Output window. If not, click on the Output screen icon at the bottom of your screen.</emphasis></para>
+    <para id="id1171951737306"><link url="7.5.png/image" window="new">
+		<media id="media5" alt="">
+			<image mime-type="image/png" src="../../media/7.5.png" id="figure5"/>
+		</media>
+	</link></para>
+    <para id="id1171951848477"><emphasis>In the output screen, the first table you will see is the Case Processing Summary. In this example, 1,139 cases were used out of the total sample of 1,182 cases.</emphasis></para>
+    <para id="id1171949695153"><link url="7.6.png/image" window="new">
+		<media id="media6" alt="">
+			<image mime-type="image/png" src="../../media/7.6.png" id="figure6"/>
+		</media>
+	</link></para>
+    <para id="id1171956933054"><emphasis>The overall internal consistency of the scores of these four Performance subscales is located in the Reliability Statistics table. In this example, Cronbach’s Coefficient Alpha is .800.</emphasis></para>
+    <para id="id1171961424101"><link url="7.7.png/image" window="new">
+		<media id="media7" alt="">
+			<image mime-type="image/png" src="../../media/7.7.png" id="figure7"/>
+		</media>
+	</link></para>
+    <para id="id1171949852998"><emphasis>The next table labeled Item Statistics contains the descriptive statistics for these four Performance subscales for the sample of 1,139 persons.</emphasis></para>
+    <para id="id1171948499492"><link url="7.8.png/image" window="new">
+		<media id="media8" alt="">
+			<image mime-type="image/png" src="../../media/7.8.png" id="figure8"/>
+		</media>
+	</link></para>
+    <para id="id1171951033151"><emphasis>In the next table of importance, labeled Item-Total Statistics, locate the far right column of this table. This column, titled as Cronbach’s Alpha if Item Deleted, indicates how much of a change in internal consistency would occur if you deleted that variable from the group. As our Cronbach’s Coefficient Alpha for all four Performance subscales was .800, as previously noted, no increase occurs in the internal consistency if any of these subscales are deleted.</emphasis></para>
+    <para id="id1171949772612"><link url="7.9.png/image" window="new">
+		<media id="media9" alt="">
+			<image mime-type="image/png" src="../../media/7.9.png" id="figure9"/>
+		</media>
+	</link></para>
+    <para id="id1171948731131"><emphasis>The next column in this table that we examine is the one labeled Corrected Item-Total Correlation. These values indicate the extent to which each variable is related with the group of variables, in this case with the total of the Performance subscales. The higher the correlation, the more that item/variable is associated with the total of the group. The values in this column reflect that these four Performance subscales are consistently contributing to the measurement of the same/similar construct.</emphasis></para>
+    <para id="id1171950367946"><link url="7.10.png/image" window="new">
+		<media id="media10" alt="">
+			<image mime-type="image/png" src="../../media/7.10.png" id="figure10"/>
+		</media>
+	</link></para>
+    <para id="id1171951848334"><emphasis>In the case of the four Performance subscales, all four subscales may be regarded as providing internally consistent scores. Moreover, their scores can be aggregated or added together to create a composite score. See our chapter on data transformation – creating a new variable.</emphasis></para>
+    <para id="id1171949711448"><emphasis>Now that we have determined the internal consistency of the scores from the Verbal subscales and of the scores from the Performance subscales, a name needs to be assigned to each of these two factors. Naming the factor involves interpreting the pattern/structure coefficients from the factor analysis that was described in the factor analysis chapter. All significant pattern/structure coefficients are typically used in the interpretation process. Variables with higher coefficients influence to a greater extent the name or label selected to represent a factor. Naming of factors is NOT very scientific and is based on the subjective opinion of the analyst---naming is open to criticism.</emphasis></para>
+  </content>
+</document>

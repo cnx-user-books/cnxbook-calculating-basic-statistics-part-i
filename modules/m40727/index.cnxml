@@ -1,0 +1,104 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Factor Analysis: Part II</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40727</md:content-id>
+  <md:title>Factor Analysis: Part II</md:title>
+  <md:abstract/>
+  <md:uuid>f6f26049-5195-4404-b3eb-b4b1b2671995</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-356"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-134">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.
+
+</note><list id="eip-602" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+	<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+</list><para id="id1168266984121"><emphasis>After clicking on Extraction, the following screen should now be present. </emphasis></para>
+    <para id="id1168273982284"><link url="9.1.png/image" window="new">
+		<media id="media1" alt="">
+			<image mime-type="image/png" src="../../media/9.1.png" id="figure1"/>
+		</media>
+	</link></para>
+    <para id="id1168277251423"><emphasis>Under Display, click on Screen plot.</emphasis></para>
+    <para id="id1168260145626"><emphasis>Unclick the Unrotated factor solution.</emphasis></para>
+    <para id="id1168262174473"><link url="9.2.png/image" window="new">
+		<media id="media2" alt="">
+			<image mime-type="image/png" src="../../media/9.2.png" id="figure2"/>
+		</media>
+	</link></para>
+    <para id="id1168252559272"><emphasis>Click on Continue.</emphasis></para>
+    <para id="id1168251186148"><link url="9.3.png/image" window="new">
+		<media id="media3" alt="">
+			<image mime-type="image/png" src="../../media/9.3.png" id="figure3"/>
+		</media>
+	</link></para>
+    <para id="id1168274358142"><emphasis>After clicking on Continue, the screen below should be present.</emphasis></para>
+    <para id="id1168271079954"><emphasis>Now click on OK.</emphasis></para>
+    <para id="id1168247841117"><link url="9.4.png/image" window="new">
+		<media id="media4" alt="">
+			<image mime-type="image/png" src="../../media/9.4.png" id="figure4"/>
+		</media>
+	</link></para>
+    <para id="id1168263607935"><emphasis>You should now have factor analysis results. If SPSS does not send you to your output screen, click on the Output icon at the bottom of your screen.</emphasis></para>
+    <para id="id1168262888296"><link url="9.5.png/image" window="new">
+		<media id="media5" alt="">
+			<image mime-type="image/png" src="../../media/9.5.png" id="figure5"/>
+		</media>
+	</link></para>
+    <para id="id1168264564359"><emphasis>In your SPSS Output screen, the first table of importance is the Descriptive Statistics table. The sample size (<emphasis effect="italics">n</emphasis>), <emphasis effect="italics">M</emphasis>, and <emphasis effect="italics">SD</emphasis> for each of the 10 subscales used in the factor analysis are present in this table.</emphasis></para>
+    <para id="id1168266981386"><link url="9.6.png/image" window="new">
+		<media id="media6" alt="">
+			<image mime-type="image/png" src="../../media/9.6.png" id="figure6"/>
+		</media>
+	</link></para>
+    <para id="id1168277160075"><emphasis>Underneath the Descriptive Statistics table is the Scree plot. What the scree plot does is to plot the eigenvalue against the factor number (Cattell, 1966; Zwick &amp; Velicer, 1986). The eigenvalue and factor number are present in the table labeled Total Variance Explained. You will note in the Scree Plot below that the line is essentially flat after the second factor. This plot below depicts the presence of two possible factors, 1 and 2.</emphasis></para>
+    <para id="id1168248059787"><link url="9.7.png/image" window="new">
+		<media id="media7" alt="">
+			<image mime-type="image/png" src="../../media/9.7.png" id="figure7"/>
+		</media>
+	</link></para>
+    <para id="id1168246952219"><emphasis>In the Total Variance Explained table, statistical information that is depicted in the Scree Plot is presented. The column labeled Total reflects the eigenvalues for the two factors. To determine the number of factors you may have: look at the eigenvalue column. All factors with values less than 1 are considered to be statistically insignificant and are disregarded (Kaiser, 1958). Thus, an eigenvalue of at least 1.0 must be present for a factor to be possible. In the Total Variance Explained table below, two factors are present with eigenvalues greater than 1.00: Factor 1 has an eigenvalue of 3.545 and Factor 3 has an eigenvalue of 2.515.</emphasis></para>
+    
+    <para id="id1168246932637"><link url="9.8.png/image" window="new">
+		<media id="media8" alt="">
+			<image mime-type="image/png" src="../../media/9.8.png" id="figure8"/>
+		</media>
+	</link></para>
+    
+    <para id="eip-1"><emphasis>After checking the eigenvalues to ensure that they are greater than one (Kaiser, 1958), the percent of variance must be examined. To constitute a viable factor, the factor should account for at least 5 percent of the variance to be used. In the example below, Factor 1 accounts for 35.45% of the variance and Factor 2 explains 25.15% of the variance. In both cases, the factors account for much more than the minimum 5%. Together these two factors account for 60.60% of the variance.</emphasis></para><para id="id1295557"><link url="9.9.png/image" window="new">
+		<media id="media9" alt="">
+			<image mime-type="image/png" src="../../media/9.9.png" id="figure9"/>
+		</media>
+	</link></para>
+    <para id="id1168246933900"><emphasis>Next we will examine the Rotated Component Matrix. This table contains the factor loadings or pattern/structure coefficients for the 10 subscales analyzed in this Varimax procedure. To determine whether a subscale is a component of a specific factor, a cutoff value of .3 (Lambert &amp; Durand, 1975) is recommended as an acceptable minimum value for pattern/structure coefficients. In this example, Verbal 1 (Information) has a pattern/structure coefficient of .782; Verbal 1 (Similarities) of .745; Verbal 3 (Arithmetic) of .661; Verbal 4 (Vocabulary) of .845; and Verbal 5 (Comprehension) of .797. Though above the cutoff of .3, Performance 2 (Coding), Performance 3 (Picture Arrangement), and Performance 4 (Block Design) are well below the coefficients for the Verbal subscales.</emphasis></para>
+    <para id="id1168248189680"><link url="9.10.png/image" window="new">
+		<media id="media10" alt="">
+			<image mime-type="image/png" src="../../media/9.10.png" id="figure10"/>
+		</media>
+	</link></para>
+    <para id="id1168276953959"><emphasis>For Factor 2, the pattern/structure coefficients were .711 for Performance 1 (Picture Completion); .536 for Performance 3 (Picture Arrangement); .767 for Performance 4 (Block Design); and .865 for Performance 5 (Object Assembly). Two of the Verbal subscales were at or above the cutoff value of .3, however, their pattern/structure coefficients were markedly lower than the ones for the four Performance subscales mentioned above.</emphasis></para>
+    <para id="id1168247799458"><link url="9.11.png/image" window="new">
+		<media id="media11" alt="">
+			<image mime-type="image/png" src="../../media/9.11.png" id="figure11"/>
+		</media>
+	</link></para>
+    <para id="id1168252304845"><emphasis>In this example, it appears that the Performance 2 (Coding) subscale is not part of Factor 2. It may be a component of Factor 1.</emphasis></para>
+    <para id="id1168247877492"><link url="9.12.png/image" window="new">
+		<media id="media12" alt="">
+			<image mime-type="image/png" src="../../media/9.12.png" id="figure12"/>
+		</media>
+	</link></para>
+    <para id="id1168249246180"><emphasis>You have now conducted a Varimax factor rotation of the 10 subscales of the Wechsler Intelligence Scale for Children-Third Edition. To determine whether your factors are internally consistent, you would need to perform an internal consistency analysis for the subscales that constitute Factor 1 and a separate internal consistency analysis for the subscales that constitute Factor 2. See our chapter on steps and screenshots for conducting internal consistency analyses.</emphasis></para>
+    <section id="id1168246598540">
+      <title>References</title>
+      <list id="id1168246932771" list-type="labeled-item"><item id="id1168258378290">Cattell, R. B. (1966). The scree test for the number of factors. <emphasis effect="italics">Multivariate Behavioral Research, 1, </emphasis>245–276.</item>
+	<item>Kaiser, H. F. (1958). The varimax criterion for analytic rotation in factor analysis. <emphasis effect="italics">Psychometrika, 23, </emphasis>187–200.</item>
+	<item>Lambert, Z. V., &amp; Durand, R. M. (1975). Some precautions in using canonical analysis. <emphasis effect="italics">Journal of Market Research, 12, </emphasis>468–475.</item>
+	<item>Zwick, W. R., &amp; Velicer, W. F. (1986). Comparison of five rules for determining the number of components to retain. <emphasis effect="italics">Psychological Bulletin, 99, </emphasis>432–442.</item>
+</list>
+      
+    </section>
+  </content>
+</document>

@@ -1,0 +1,230 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Recoding Data in SPSS</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40708</md:content-id>
+  <md:title>Recoding Data in SPSS</md:title>
+  <md:abstract/>
+  <md:uuid>f99337fe-dd84-4aa5-a315-1ea4b5249cd9</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-140"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-610">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.
+
+</note><list id="eip-105" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+	<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+
+</list><list id="eip-4" list-type="labeled-item"><title><emphasis effect="underline">About the Editors</emphasis></title><item><emphasis>Theodore B. Creighton</emphasis>, is a Professor at Virginia Tech and the Publications Director for <link url="http://www.ncpeapublications.org">NCPEA Publications</link>, the Founding Editor of <link url="http://ncpeapublications.org/about-elr.html">Education Leadership Review,</link> and the Senior Editor of the NCPEA Connexions Project.</item>
+	<item><emphasis>Brad E. Bizzell</emphasis>, is a recent graduate of the Virginia Tech Doctoral Program in Educational Leadership and Policy Studies, and is a School Improvement Coordinator for the Virginia Tech Training and Technical Assistance Center. In addition, Dr. Bizzell serves as an Assistant Editor of the NCPEA Connexions Project in charge of technical formatting and design.
+</item>
+	<item><emphasis>Janet Tareilo</emphasis>, is a Professor at Stephen F. Austin State University and serves as the Assistant Director of NCPEA Publications. Dr. Tareilo also serves as an Assistant Editor of the NCPEA Connexions Project and as a editor and reviewer for several national and international journals in educational leadership.</item>
+</list><para id="id1170042671711">
+      <emphasis effect="bold">These procedures are to be followed when your data are already entered into SPSS and when you have values that you need to either remove or to recode into different values. </emphasis>
+    </para>
+    <para id="id1170044833250"><emphasis>Work from the Data View window.</emphasis></para>
+    <para id="id1170042885857"><link url="2.1.png/image" window="new">
+		<media id="media1" alt="">
+			<image mime-type="image/png" src="../../media/2.1.png" id="figure1"/>
+		</media>
+	</link></para>
+    <para id="id1170037610741"><emphasis>After clicking on the Data View button, your screen should look like the screen below in that you are looking at data.</emphasis></para>
+    <para id="id1170028809114"><link url="2.2.png/image" window="new">
+		<media id="media2" alt="">
+			<image mime-type="image/png" src="../../media/2.2.png" id="figure2"/>
+		</media>
+	</link></para>
+    <para id="id1170041999922"><emphasis>Identify the variable in which values are present that you want to recode.</emphasis></para>
+    <para id="id1170049679208"><emphasis>In our case, we want to recode the values for Question One below.</emphasis></para>
+    <para id="id1170042582020"><link url="2.3.png/image" window="new">
+		<media id="media3" alt="">
+			<image mime-type="image/png" src="../../media/2.3.png" id="figure3"/>
+		</media>
+	</link></para>
+    <para id="id1170038731950">
+      <emphasis effect="bold">Identify the </emphasis>
+      <emphasis effect="bold">values within this variable that you wish to recode. You may need to run the frequencies procedure to list out all of the values present for the variable of interest.</emphasis>
+    </para>
+    <para id="id1170030217735"><emphasis>√ Click on Analyze</emphasis></para>
+    <para id="id1170060932649"><emphasis>√ Click on Descriptive Statistics</emphasis></para>
+    <para id="id1170049513839"><emphasis>√ Click on Frequencies</emphasis></para>
+    <para id="id1170050015364"><link url="2.4.png/image" window="new">
+		<media id="media4" alt="">
+			<image mime-type="image/png" src="../../media/2.4.png" id="figure4"/>
+		</media>
+	</link></para>
+    <para id="id1170041266091"><emphasis>Highlight the variable on which you will request frequencies so that you can then determine the values that you will need to change/recode. In this example, we are using Survey Question One.</emphasis></para>
+    <para id="id1170055850200"><link url="2.5.png/image" window="new">
+		<media id="media5" alt="">
+			<image mime-type="image/png" src="../../media/2.5.png" id="figure5"/>
+		</media>
+	</link></para>
+    <para id="id1170031831090">
+      <emphasis effect="bold">√ Click on the arrow in the middle to send over the Survey Question One variable.</emphasis>
+    </para>
+    <para id="id7050038"><link url="2.6.png/image" window="new">
+		<media id="media6" alt="">
+			<image mime-type="image/png" src="../../media/2.6.png" id="figure6"/>
+		</media>
+	</link></para>
+    <para id="id1170035519928"><emphasis>Because we want a listing of the values present for this variable, Survey Question One, we will click on OK.</emphasis></para>
+    <para id="id1170030381465">
+      <emphasis effect="bold">Go to the output screen. For this example, our output looks like the following. Survey Question One has five different values (i.e., 1, 2, 3, 4, 5). The value of 1 only occurred 6 times. These values could represent a 5-point Likert format of 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral/Undecided, 4 = Agree, and 5 = Strongly Agree. [Note. Readers are referred to a separate chapter on typing in survey data with appropriate labeling.]</emphasis>
+    </para>
+    <para id="id1170043763881"><link url="2.7.png/image" window="new">
+		<media id="media7" alt="">
+			<image mime-type="image/png" src="../../media/2.7.png" id="figure7"/>
+		</media>
+	</link></para>
+    <para id="id1170039620596">
+      <emphasis effect="bold">Based upon our frequencies, we will combine values 1 and 2 into a Disagreement category and 4 and 5 into an Agreement category.</emphasis>
+    </para>
+    <para id="id1170039918082">
+      <emphasis effect="bold">√ Click on </emphasis>
+      <emphasis effect="bold">Transform.</emphasis>
+    </para>
+    <para id="id1170028925584"><link url="2.8.png/image" window="new">
+		<media id="media8" alt="">
+			<image mime-type="image/png" src="../../media/2.8.png" id="figure8"/>
+		</media>
+	</link></para>
+    <para id="id1170035906142">
+      <emphasis effect="bold">You now have an option to Recode Into Same Variables or Recode Into Different Variables.</emphasis>
+      <emphasis effect="bold"> We recommend that you recode into different variables so that the data present in the variable of Question One is left untouched.</emphasis>
+    </para>
+    <para id="id1170024592161"><link url="2.9.png/image" window="new">
+		<media id="media9" alt="">
+			<image mime-type="image/png" src="../../media/2.9.png" id="figure9"/>
+		</media>
+	</link></para>
+    <para id="id1170049705394"><emphasis>When you click on Recode Into Different Variables, you will then see this screen.</emphasis></para>
+    <para id="id1170030261457"><link url="2.10.png/image" window="new">
+		<media id="media10" alt="">
+			<image mime-type="image/png" src="../../media/2.10.png" id="figure10"/>
+		</media>
+	</link></para>
+    <para id="id1170029219992"><emphasis>Highlight the variable on which you will be recoding the values. In this example, our variable is Survey Question One. After highlighting it, click on the arrow to send it to the Input Variable – Output Variable box.</emphasis></para>
+    <para id="id1170052309795"><link url="2.11.png/image" window="new">
+		<media id="media11" alt="">
+			<image mime-type="image/png" src="../../media/2.11.png" id="figure11"/>
+		</media>
+	</link></para>
+    <para id="id1170029394506"><emphasis>Click under the Output Variable where Name is present.</emphasis></para>
+    <para id="id1170033794919"><link url="2.12.png/image" window="new">
+		<media id="media12" alt="">
+			<image mime-type="image/png" src="../../media/2.12.png" id="figure12"/>
+		</media>
+	</link></para>
+    <para id="id1170031384264"><emphasis>Now type in a new name for the variable you will be creating. Remember that the information in Survey Question One is being recoded from 5 separate values into 3 values. We encourage you to type Recoded in front of the new variable name.</emphasis></para>
+    <para id="id1170047843972"><emphasis>The name, RecodedQuestionOne, will be the name of our new variable. After typing in the name, click on Change.</emphasis></para>
+    <para id="id7066654"><link url="2.13.png/image" window="new">
+		<media id="media13" alt="">
+			<image mime-type="image/png" src="../../media/2.13.png" id="figure13"/>
+		</media>
+	</link></para>
+    <para id="id7035168"><emphasis>After clicking on Change, the name for the new variable that is being created appears in the Numeric Variable – Output Variable box.</emphasis></para>
+    <para id="id1170029021179"><link url="2.14.png/image" window="new">
+		<media id="media14" alt="">
+			<image mime-type="image/png" src="../../media/2.14.png" id="figure14"/>
+		</media>
+	</link></para>
+    <para id="id1170038659031"><emphasis>Now click on Old and New Values. This is where the values will be recoded.</emphasis></para>
+    <para id="id1170033442673"><link url="2.15.png/image" window="new">
+		<media id="media15" alt="">
+			<image mime-type="image/png" src="../../media/2.15.png" id="figure15"/>
+		</media>
+	</link></para>
+    <para id="id1170050073381"><emphasis>This screen will then appear.</emphasis></para>
+    <para id="id1170038962665"><link url="2.16.png/image" window="new">
+		<media id="media16" alt="">
+			<image mime-type="image/png" src="../../media/2.16.png" id="figure16"/>
+		</media>
+	</link></para>
+    <para id="id1170033505138"><emphasis>Click on Old Value and the rectangle underneath it becomes activated.</emphasis></para>
+    <para id="id1170055038692"><link url="2.17.png/image" window="new">
+		<media id="media17" alt="">
+			<image mime-type="image/png" src="../../media/2.17.png" id="figure17"/>
+		</media>
+	</link></para>
+    <para id="id1170041560466"><emphasis>Now we will begin recoding the values for this variable. Type a 1 in the Old Value box and a 1 in the New Value box.</emphasis></para>
+    <para id="id1170047669248"><link url="2.18.png/image" window="new">
+		<media id="media18" alt="">
+			<image mime-type="image/png" src="../../media/2.18.png" id="figure18"/>
+		</media>
+	</link></para>
+    <para id="id1170050071095"><emphasis>Click on Add. This then moves the 1 in the Old Value and 1 in the New Value into the larger box.</emphasis></para>
+    <para id="id1170021588467"><link url="2.19.png/image" window="new">
+		<media id="media19" alt="">
+			<image mime-type="image/png" src="../../media/2.19.png" id="figure19"/>
+		</media>
+	</link></para>
+    <para id="id1170042899311"><emphasis>Now type a 2 in Old Value and a 1 in New Value. When this process is completed, SPSS will merge all values of a 1 and all values of a 2 into a 1 category.</emphasis></para>
+    <para id="id1170026092522"><link url="2.20.png/image" window="new">
+		<media id="media20" alt="">
+			<image mime-type="image/png" src="../../media/2.20.png" id="figure20"/>
+		</media>
+	</link></para>
+    <para id="id1170033520376"><emphasis>Click on Add. The Old Value of 2 and the New Value of 1 now appear in the larger box.</emphasis></para>
+    <para id="id1170028662850"><link url="2.21.png/image" window="new">
+		<media id="media21" alt="">
+			<image mime-type="image/png" src="../../media/2.21.png" id="figure21"/>
+		</media>
+	</link></para>
+    <para id="id1170031735301"><emphasis>Type a 3 in Old Value and a 2 in New Value.</emphasis></para>
+    <para id="id1170050695601"><link url="2.22.png/image" window="new">
+		<media id="media22" alt="">
+			<image mime-type="image/png" src="../../media/2.22.png" id="figure22"/>
+		</media>
+	</link></para>
+    <para id="id1170035256094"><emphasis>Click on Add. The Old Value of 3 and the New Value of 2 have been added into the larger box.</emphasis></para>
+    <para id="id1170032710931"><link url="2.23.png/image" window="new">
+		<media id="media23" alt="">
+			<image mime-type="image/png" src="../../media/2.23.png" id="figure23"/>
+		</media>
+	</link></para>
+    <para id="id1170060873706"><emphasis>Type a 4 in Old Value and a 3 in New Value. Then click on Add</emphasis></para>
+    <para id="id1170055755508"><link url="2.24.png/image" window="new">
+		<media id="media24" alt="">
+			<image mime-type="image/png" src="../../media/2.24.png" id="figure24"/>
+		</media>
+	</link></para>
+    <para id="id1170056349384"><emphasis>The Old Value of 4 and the New Value of 3 have now been added to the larger box.</emphasis></para>
+    <para id="id1170044796802"><link url="2.25.png/image" window="new">
+		<media id="media25" alt="">
+			<image mime-type="image/png" src="../../media/2.25.png" id="figure25"/>
+		</media>
+	</link></para>
+    <para id="id1170049634402"><emphasis>Finally, type 5 in the Old Value box and 3 into the New Value box. Click on Add</emphasis></para>
+    <para id="id1170043749292"><link url="2.26.png/image" window="new">
+		<media id="media26" alt="">
+			<image mime-type="image/png" src="../../media/2.26.png" id="figure26"/>
+		</media>
+	</link></para>
+    <para id="id1170039314362"><emphasis>Now all 5 values in the Survey Question One variable are present in the Old – New box below. They will be recoded into 3 values.</emphasis></para>
+    <para id="id1170044424276"><link url="2.27.png/image" window="new">
+		<media id="media27" alt="">
+			<image mime-type="image/png" src="../../media/2.27.png" id="figure27"/>
+		</media>
+	</link></para>
+    <para id="id1170048271151"><emphasis>Click on Continue.</emphasis></para>
+    <para id="id1170043962301"><link url="2.28.png/image" window="new">
+		<media id="media28" alt="">
+			<image mime-type="image/png" src="../../media/2.28.png" id="figure28"/>
+		</media>
+	</link></para>
+    <para id="id1170049970320"><emphasis>Click on OK. SPSS will then generate a new variable for you, RecodedQuestionOne.</emphasis></para>
+    <para id="id1170053476832"><link url="2.29.png/image" window="new">
+		<media id="media29" alt="">
+			<image mime-type="image/png" src="../../media/2.29.png" id="figure29"/>
+		</media>
+	</link></para>
+    <para id="id1170030302495"><emphasis>The newly created variable, RecodedQuestionOne, will be added as the last variable in your dataset.</emphasis></para>
+    <para id="id1170021862024"><link url="2.30png/image" window="new">
+		<media id="media30" alt="">
+			<image mime-type="image/png" src="../../media/2.30.png" id="figure30"/>
+		</media>
+	</link></para>
+    <para id="id1170045831233"><emphasis>You have generated a new variable, one not in your original dataset, that contains 3 values, instead of the 5 values in the Question One variable.</emphasis></para>
+  </content>
+</document>

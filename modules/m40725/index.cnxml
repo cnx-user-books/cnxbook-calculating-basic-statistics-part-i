@@ -1,0 +1,88 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Factor Analysis: Part I</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40725</md:content-id>
+  <md:title>Factor Analysis: Part I</md:title>
+  <md:abstract/>
+  <md:uuid>b7c9f663-7d90-4296-8df6-abda08465288</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-968"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-945">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.
+
+</note><list id="eip-762" list-type="labeled-item"><title><emphasis effect="unerline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+	<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+</list><para id="id1168272464952"><emphasis>In this set of steps, readers will conduct a factor analysis procedure, in particular, a Varimax factor analysis. For detailed information regarding the assumptions underlying use of a factor analysis and reasons for using a Varimax factor analysis, readers are referred to the Hyperstats Online Statistics Textbook at <link url="http://davidmlane.com/hyperstat/">http://davidmlane.com/hyperstat/</link> ; to the <emphasis effect="italics">Electronic Statistics Textbook</emphasis> (2011) at <link url="http://www.statsoft.com/textbook/">http://www.statsoft.com/textbook/</link> ; or to Andy Field’s (2009) Discovering Statistics Using SPSS at <link url="http://www.amazon.com/Discovering-Statistics-Introducing-Statistical-Method/dp/1847879071/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1304967862&amp;sr=1-1">http://www.amazon.com/Discovering-Statistics-Introducing-Statistical-Method/dp/1847879071/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1304967862&amp;sr=1-1</link> </emphasis></para>
+    <para id="id1168272408618"><emphasis>Research questions for which a factor analysis procedure is appropriate involve analyzing a survey or an instrument in which multiple scores are present. For example, if a 100-item survey is administered, it is not feasible nor is it desirable to conduct 100 separate<emphasis effect="italics"> t</emphasis>-tests or to calculate all of the possible intercorrelations. Rather, the 100 items on the survey should be collapsed or aggregated in some manner. Use of a factor analysis permits the clustering of items into coherent and logical clusters which can then be analyzed through use of multivariate statistical procedures. As such, factor analysis procedures do not directly answer inferential research questions. Instead they serve as precursors to other statistical methods. </emphasis></para>
+    <para id="id1168251026707"><emphasis>For this particular chapter, we will conduct a factor analysis of the 10 subscales of the Wechsler Intelligence Scale for Children-Third Edition. The 10 subscales are shown below: Picture Completion (pc), Information (inf), Coding (cod), Similarities (sim), Picture Arrangement (pa), Arithmetic (ari), Block Design (bd), Vocabulary (voc), Object Assembly (oa), and Comprehension (comp). Prior to conducting a factor analysis, you should have verified the accuracy of your data.</emphasis></para>
+    <para id="id1168252626106"><link url="8.1.png/image" window="new">
+		<media id="media1" alt="">
+			<image mime-type="image/png" src="../../media/8.1.png" id="figure1"/>
+		</media>
+	</link></para>
+    <para id="id2168539"><emphasis>In this example, we will click on</emphasis></para>
+    <para id="id1168267262520"><emphasis>Analyze</emphasis></para>
+    <para id="id1168255443166"><emphasis>Dimension Reduction</emphasis></para>
+    <para id="id1168263821164"><emphasis>Factor</emphasis></para>
+    <para id="id1168258109129"><link url="8.2.png/image" window="new">
+		<media id="media2" alt="">
+			<image mime-type="image/png" src="../../media/8.2.png" id="figure2"/>
+		</media>
+	</link></para>
+    <para id="id1168253324808"><emphasis>After clicking on factor, the following screen will appear. The variables on which you want a factor analysis conducted should be sent into the box titled Variables. In our example, we will send all 10 of the subscales into the Variables box.</emphasis></para>
+    <para id="id1168252808020"><link url="8.3.png/image" window="new">
+		<media id="media3" alt="">
+			<image mime-type="image/png" src="../../media/8.3.png" id="figure3"/>
+		</media>
+	</link></para>
+    <para id="id1168256779327"><emphasis>Once all of the subscales on which you want the factor analysis conducted have been placed into the Variables box, click on Rotation.</emphasis></para>
+    <para id="id1168257896238"><link url="8.4.png/image" window="new">
+		<media id="media4" alt="">
+			<image mime-type="image/png" src="../../media/8.4.png" id="figure4"/>
+		</media>
+	</link></para>
+    <para id="id1168253051715"><emphasis>After clicking on Rotation, the following screen will appear. Under Method, the box for None is already checked because it is the SPSS default value. We will conduct a Varimax factor analysis. Click on Varimax.</emphasis></para>
+    <para id="id1168266925119"><link url="8.5.png/image" window="new">
+		<media id="media5" alt="">
+			<image mime-type="image/png" src="../../media/8.5.png" id="figure5"/>
+		</media>
+	</link></para>
+    <para id="id1168253898042"><emphasis>Varimax has been clicked below. Click on Continue.</emphasis></para>
+    <para id="id1168258112220"><link url="8.6.png/image" window="new">
+		<media id="media6" alt="">
+			<image mime-type="image/png" src="../../media/8.6.png" id="figure6"/>
+		</media>
+	</link></para>
+    <para id="id1168250840905"><emphasis>The screen below will appear after you have clicked on Continue. </emphasis></para>
+    <para id="id1168253353497"><emphasis>Now click on Descriptives.</emphasis></para>
+    <para id="id7621936"><link url="8.7.png/image" window="new">
+		<media id="media7" alt="">
+			<image mime-type="image/png" src="../../media/8.7.png" id="figure7"/>
+		</media>
+	</link></para>
+    <para id="id1168268826828"><emphasis>Your screen should now look like the one below. Click on Univariate Descriptives.</emphasis></para>
+    <para id="id1168261742429"><emphasis>Unclick Initial Solution.</emphasis></para>
+    <para id="id1168253430450"><link url="8.8.png/image" window="new">
+		<media id="media8" alt="">
+			<image mime-type="image/png" src="../../media/8.8.png" id="figure8"/>
+		</media>
+	</link></para>
+    <para id="id1168258181019"><emphasis>Your screen will now look like the following screenshot.</emphasis></para>
+    <para id="id1168257148450"><emphasis>Click on Continue.</emphasis></para>
+    <para id="id1168253761627"><link url="8.9.png/image" window="new">
+		<media id="media9" alt="">
+			<image mime-type="image/png" src="../../media/8.9.png" id="figure9"/>
+		</media>
+	</link></para>
+    <para id="id1168258309554"><emphasis>The following screen should now be present.</emphasis></para>
+    <para id="id1168256400854"><emphasis>Click on Extraction.</emphasis></para>
+    <para id="id1168272424363"><link url="8.10.png/image" window="new">
+		<media id="media10" alt="">
+			<image mime-type="image/png" src="../../media/8.10.png" id="figure10"/>
+		</media>
+	</link></para>
+  </content>
+</document>

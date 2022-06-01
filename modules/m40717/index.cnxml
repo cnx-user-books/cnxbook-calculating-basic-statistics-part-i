@@ -1,0 +1,155 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Internal Consistency Analysis: Part I</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40717</md:content-id>
+  <md:title>Internal Consistency Analysis: Part I</md:title>
+  <md:abstract/>
+  <md:uuid>f4bbec4c-f923-4b6e-907c-4f864200d35f</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-745"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-643">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.
+
+</note><list id="eip-224" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+	<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+</list><para id="id1166670035565">
+      <emphasis effect="bold">In this set of steps and screenshots, you will be presented with information regarding how to determine the internal consistency (i.e., reliability) of scores derived from a larger set of variables. In particular, this chapter follows up on the factor analysis chapter. The subscales that were determined to constitute Factor 1 and the subscales that were determined to comprise Factor 2 will be the variables used in this chapter to ascertain the extent to which they constitute internally consistent factors. For more detailed information regarding internal consistency analysis, readers are referred to the Hyperstats Online Statistics Textbook at </emphasis>
+      <link url="http://davidmlane.com/hyperstat/">
+        <emphasis effect="bold">http://davidmlane.com/hyperstat/</emphasis>
+      </link>
+      <emphasis effect="bold"> ; to the </emphasis>
+      <emphasis effect="italics">Electronic Statistics Textbook</emphasis>
+      <emphasis effect="bold"> (2011) at </emphasis>
+      <link url="http://www.statsoft.com/textbook/">
+        <emphasis effect="bold">http://www.statsoft.com/textbook/</emphasis>
+      </link>
+      <emphasis effect="bold"> ; or to Andy Field’s (2009) Discovering Statistics Using SPSS at </emphasis>
+      <link url="http://www.amazon.com/Discovering-Statistics-Introducing-Statistical-Method/dp/1847879071/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1304967862&amp;sr=1-1">
+        <emphasis effect="bold">http://www.amazon.com/Discovering-Statistics-Introducing-Statistical-Method/dp/1847879071/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1304967862&amp;sr=1-1</emphasis>
+      </link>
+    </para>
+    <para id="id1166668527542"><emphasis>
+Conducting an internal consistency analysis is usually part of a set of statistical analyses. Its purpose is to determine score reliability and not to determine whether groups differ on some variable. As such, internal consistency analysis precedes the use of inferential statistical procedures.</emphasis>
+</para>
+    <para id="eip-829"><emphasis>Have your data set pulled into SPSS-PC. In this data set, we have the same 10 subscales used in the factor analysis chapter.</emphasis></para>
+    <para id="eip-786"><link url="5.1.png/image" window="new">
+		<media id="media1" alt="">
+			<image mime-type="image/png" src="../../media/5.1.png" id="figure1"/>
+		</media>
+	</link></para>
+    <para id="eip-386"><emphasis>
+Click on Analyze</emphasis>
+</para>
+    <para id="eip-440"><emphasis>
+Click on Scale</emphasis>
+</para><para id="eip-557"><emphasis>
+Click on Reliability Analysis</emphasis>
+</para>
+    
+    <para id="eip-274"><link url="5.2.png/image" window="new">
+		<media id="media2" alt="">
+			<image mime-type="image/png" src="../../media/5.2.png" id="figure2"/>
+		</media>
+	</link></para><para id="eip-490"><emphasis effect="bold">Using the information from the chapter on factor analysis, we want to determ</emphasis>
+	<emphasis effect="bold">ine the internal consistency of: Verbal 1 (Information), Verbal 2 (Similarities), Verbal 3 (Arithmetic), Verbal 4 (Vocabulary), and Verbal 5 (Comprehension). Click on each of these variables and send each to the box labeled Items.</emphasis>
+</para><para id="eip-729"><link url="5.3.png/image" window="new">
+		<media id="media3" alt="">
+			<image mime-type="image/png" src="../../media/5.3.png" id="figure3"/>
+		</media>
+	</link></para><para id="eip-498"><emphasis>
+Now your screen should look like the one below.</emphasis>
+</para><para id="eip-812"><emphasis>
+Click on Statistics.</emphasis>
+</para><para id="eip-233"><link url="5.4.png/image" window="new">
+		<media id="media4" alt="">
+			<image mime-type="image/png" src="../../media/5.4.png" id="figure4"/>
+		</media>
+	</link></para><para id="eip-19"><emphasis>
+After clicking on Statistics, the following screen should appear.</emphasis>
+</para><para id="eip-426"><link url="5.5.png/image" window="new">
+		<media id="media5" alt="">
+			<image mime-type="image/png" src="../../media/5.5.png" id="figure5"/>
+		</media>
+	</link></para><para id="eip-185"><emphasis>
+Click under Descriptives on
+</emphasis>
+</para><para id="eip-183"><emphasis>
+Item
+</emphasis>
+</para><para id="eip-396"><emphasis>
+Scale
+</emphasis>
+</para><para id="eip-952"><emphasis>
+Scale if item deleted
+</emphasis>
+</para><para id="eip-899"><link url="5.6.png/image" window="new">
+		<media id="media6" alt="">
+			<image mime-type="image/png" src="../../media/5.6.png" id="figure6"/>
+		</media>
+	</link></para><para id="eip-291"><emphasis>
+After you have clicked on the three items under Descriptives, next click under Summaries on
+</emphasis>
+</para><para id="eip-212"><emphasis>
+Means
+</emphasis>
+</para><para id="eip-235"><emphasis>
+Variances
+</emphasis>
+</para><para id="eip-878"><link url="5.7.png/image" window="new">
+		<media id="media7" alt="">
+			<image mime-type="image/png" src="../../media/5.7.png" id="figure7"/>
+		</media>
+	</link>
+
+ 
+</para><para id="eip-865"><emphasis>
+Now that you have clicked on Means and Variances under Summaries, your screen should now look like the screen below. Next, under Inter-Item, click on
+</emphasis>
+</para><para id="eip-542"><emphasis>
+Correlations
+</emphasis>
+</para><para id="eip-408"><link url="5.8.png/image" window="new">
+		<media id="media8" alt="">
+			<image mime-type="image/png" src="../../media/5.8.png" id="figure8"/>
+		</media>
+	</link></para><para id="eip-623"><emphasis>
+After you check to verify that your screen looks the one below, then you may click on Continue.</emphasis>
+
+</para><para id="eip-193"><link url="5.9.png/image" window="new">
+		<media id="media9" alt="">
+			<image mime-type="image/png" src="../../media/5.9.png" id="figure9"/>
+		</media>
+	</link>
+
+ 
+
+
+
+</para><para id="eip-0"><emphasis>
+Next click on OK.</emphasis>
+
+
+</para><para id="eip-199"><link url="5.10.png/image" window="new">
+		<media id="media10" alt="">
+			<image mime-type="image/png" src="../../media/5.10.png" id="figure10"/>
+		</media>
+	</link>
+
+
+
+ 
+
+
+</para><para id="eip-420"><emphasis>SPSS should send you to the Output screen.  If not, click on the Output icon at the bottom of your screen. </emphasis>
+</para><para id="eip-94"><link url="5.11.png/image" window="new">
+		<media id="media11" alt="">
+			<image mime-type="image/png" src="../../media/5.11.png" id="figure11"/>
+		</media>
+	</link></para>
+    
+    
+  </content>
+</document>

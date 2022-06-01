@@ -1,0 +1,134 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Converting Data from An Excel File into SPSS</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40709</md:content-id>
+  <md:title>Converting Data from An Excel File into SPSS</md:title>
+  <md:abstract/>
+  <md:uuid>4e52dbe6-5339-43b9-a2ae-80e240578d77</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-646"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-590">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.
+</note><list id="eip-457" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+	<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+
+</list><para id="id1170049813720"><emphasis>These procedures are to be followed when you have data already entered into an Excel file. In this chapter, you will be provided with steps and screenshots on how to convert the data from an Excel file into an SPSS data file. Open up your SPSS program and this screen will appear. Click on Cancel. </emphasis></para>
+    <para id="id1170035977162"><link url="3.1.png/image" window="new">
+		<media id="media1" alt="">
+			<image mime-type="image/png" src="../../media/3.1.png" id="figure1"/>
+		</media>
+	</link></para>
+    <para id="id1170040666974"><emphasis>Your screen will now look like this.</emphasis></para>
+    <para id="id1170036420556"><link url="3.2.png/image" window="new">
+		<media id="media2" alt="">
+			<image mime-type="image/png" src="../../media/3.2.png" id="figure2"/>
+		</media>
+	</link></para>
+    <para id="id1170049949835"><emphasis>The Excel file we will be converting for this example looks like the following:</emphasis></para>
+    <para id="id1170044298717"><link url="3.3.png/image" window="new">
+		<media id="media3" alt="">
+			<image mime-type="image/png" src="../../media/3.3.png" id="figure3"/>
+		</media>
+	</link></para>
+    <para id="id1170029177382"><emphasis>In this excel file are three variables: AveragedWritingScore, Gone, and Gtwo. All three are numeric variables. The first row contains the variable names. Rows 2 through 14 contain the data for the variables.</emphasis></para>
+    <para id="id7210741"><emphasis>Prior to the next steps, make sure that the Excel file that you intend to convert into SPSS is not open. If it is open and in use, SPSS will not be able to convert the file.</emphasis></para>
+    <para id="id1170042946092"><emphasis>Once you are back in the SPSS data view window,</emphasis></para>
+    <para id="id1170045311370"><emphasis>√ Click on File</emphasis></para>
+    <para id="id1170051032249"><emphasis>√ Click on Open</emphasis></para>
+    <para id="id1170039777276"><emphasis>√ Click on Data</emphasis></para>
+    <para id="id1170043801552"><link url="3.41.png/image" window="new">
+		<media id="media4" alt="">
+			<image mime-type="image/png" src="../../media/3.4.png" id="figure4"/>
+		</media>
+	</link></para>
+    <para id="id1170049922344"><emphasis>A screen similar to the one below will open up on your computer. You need to locate where your Excel file is located. First, you will need to change the Files of type below.</emphasis></para>
+    <para id="id5862925"><link url="3.51.png/image" window="new">
+		<media id="media5" alt="">
+			<image mime-type="image/png" src="../../media/3.5.png" id="figure5"/>
+		</media>
+	</link></para>
+    <para id="id1170033495191"><emphasis>Change from SPSS statistics (*.sav) to Excel (*.xls). Then find where the file is located and its name.</emphasis></para>
+    <para id="id1170044018344"><link url="3.6.png/image" window="new">
+		<media id="media6" alt="">
+			<image mime-type="image/png" src="../../media/3.6.png" id="figure6"/>
+		</media>
+	</link></para>
+    <para id="id1170054030523"><emphasis>In the case of this example, the Excel file was located on the Desktop and is titled, Practice Excel File.xls. Then click on Open.</emphasis></para>
+    <para id="id1170035956700"><link url="3.7.png/image" window="new">
+		<media id="media7" alt="">
+			<image mime-type="image/png" src="../../media/3.7.png" id="figure7"/>
+		</media>
+	</link></para>
+    <para id="id1170037991810"><emphasis>After clicking on open, the screen below will appear. For an Excel file to be converted properly into SPSS, the first row in the Excel file should be the names of the variables. All of the other rows in the Excel file should be the data. If you use more than one row to describe your variables, you will not be able to convert your Excel file into SPSS using these steps.</emphasis></para>
+    <para id="id1170021539253"><emphasis>Once this screen has appeared, click on OK.</emphasis></para>
+    <para id="id1170033319765"><link url="3.8.png/image" window="new">
+		<media id="media8" alt="">
+			<image mime-type="image/png" src="../../media/3.8.png" id="figure8"/>
+		</media>
+	</link></para>
+    <para id="id7503767"><emphasis>You should then be sent to the Output window.</emphasis></para>
+    <para id="id1170030745896"><emphasis>Click on the SPSS data button below to get back to your SPSS screen.</emphasis></para>
+    <para id="id1170060470048"><link url="3.9.png/image" window="new">
+		<media id="media9" alt="">
+			<image mime-type="image/png" src="../../media/3.9.png" id="figure9"/>
+		</media>
+	</link></para>
+    <para id="id1170047795955"><emphasis>Clicking on the SPSS data icon as depicted above should take you to the Data View screen. In this case, three variables were in the Excel data file: AveragedWritingScore, Gone, and Gtwo. These three variables were directly converted from the Excel file into a SPSS datafile.</emphasis></para>
+    <para id="id1170033458792"><link url="3.10.png/image" window="new">
+		<media id="media10" alt="">
+			<image mime-type="image/png" src="../../media/3.10.png" id="figure10"/>
+		</media>
+	</link></para>
+    <para id="id1170020566367"><emphasis>Now we need to make sure that the variables are correctly identified and labeled in this SPSS dataset. Click on Variable View.</emphasis></para>
+    <para id="id7242311"><link url="3.11.png/image" window="new">
+		<media id="media11" alt="">
+			<image mime-type="image/png" src="../../media/3.11.png" id="figure11"/>
+		</media>
+	</link></para>
+    <para id="id1170041121022"><emphasis>In the case of our example, the screen looks like the following:</emphasis></para>
+    <para id="id1170042955371"><link url="3.12.png/image" window="new">
+		<media id="media12" alt="">
+			<image mime-type="image/png" src="../../media/3.12.png" id="figure12"/>
+		</media>
+	</link></para>
+    <para id="id1170029394094"><emphasis>All three of the variables have been correctly identified as numeric. The number of decimals needs to be increased to 2, not 1 as shown above.</emphasis></para>
+    <para id="id1170031828323"><emphasis>To change the number of decimal places from 1 to 2, click on one of the decimal cells. In the screen below, the decimal cell for the first row has been clicked on. Once clicked an up and a down arrow will appear.</emphasis></para>
+    <para id="id1170053694173"><link url="3.13.png/image" window="new">
+		<media id="media13" alt="">
+			<image mime-type="image/png" src="../../media/3.13.png" id="figure13"/>
+		</media>
+	</link></para>
+    <para id="id1170035904157"><emphasis>We need to increase the number of decimal places so we will click on the up arrow.</emphasis></para>
+    <para id="id1170021566989"><emphasis>Clicking one time on the up arrow will change the number of decimals from 1 to 2.</emphasis></para>
+    <para id="id1170033406393"><emphasis>Now we will do the same for row 2 and for row 3.</emphasis></para>
+    <para id="id1170036099401"><link url="3.14.png/image" window="new">
+		<media id="media14" alt="">
+			<image mime-type="image/png" src="../../media/3.14.png" id="figure14"/>
+		</media>
+	</link></para>
+    <para id="id1170028718868"><emphasis>Viewing the screen below will show you that all three variables now have 2 decimal places.</emphasis></para>
+    <para id="id1170038818977"><link url="3.15.png/image" window="new">
+		<media id="media15" alt="">
+			<image mime-type="image/png" src="../../media/3.15.png" id="figure15"/>
+		</media>
+	</link></para>
+    <para id="id1170039795747"><emphasis>Prior to conducting any statistical analyses, we recommend that you type in identifying information in the Label column for each variable. The information you type in the Label column will be the information printed out in the SPSS output and will make it easier to interpret.</emphasis></para>
+    <para id="id1170041726171"><link url="3.16.png/image" window="new">
+		<media id="media16" alt="">
+			<image mime-type="image/png" src="../../media/3.16.png" id="figure16"/>
+		</media>
+	</link></para>
+    <para id="id1170056747413"><emphasis>We have converted our Excel file into a SPSS dataset. Please save it prior to conducting any statistical analyses.</emphasis></para>
+    <para id="id1170057149856"><emphasis>√ Click on File</emphasis></para>
+    <para id="id1170029192944"><emphasis>√ Click on Save</emphasis></para>
+    <para id="id1170035267493"><emphasis>Give it a name of your choosing and save it in a location that you will remember later.</emphasis></para>
+    <para id="id7402872"><link url="3.17.png/image" window="new">
+		<media id="media17" alt="">
+			<image mime-type="image/png" src="../../media/3.17.png" id="figure17"/>
+		</media>
+	</link></para>
+  </content>
+</document>

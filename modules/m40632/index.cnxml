@@ -1,0 +1,163 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Selecting a Single Group for Statistical Analysis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40632</md:content-id>
+  <md:title>Selecting a Single Group for Statistical Analysis</md:title>
+  <md:abstract/>
+  <md:uuid>4f2ee082-691f-41bb-8e0c-f49ea3f6e39d</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-577"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+
+</para><note id="eip-93">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.
+
+</note><list id="eip-878" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+	<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+</list><list id="eip-250" list-type="labeled-item"><title><emphasis effect="underline">About the Editors</emphasis></title><item><emphasis>Theodore B. Creighton</emphasis>, is a Professor at Virginia Tech and the Publications Director for <link url="http://www.ncpeapublications.org">NCPEA Publications</link>, the Founding Editor of <link url="http://ncpeapublications.org/about-elr.html">Education Leadership Review,</link> and the Senior Editor of the NCPEA Connexions Project.</item>
+	<item><emphasis>Brad E. Bizzell</emphasis>, is a recent graduate of the Virginia Tech Doctoral Program in Educational Leadership and Policy Studies, and is a School Improvement Coordinator for the Virginia Tech Training and Technical Assistance Center. In addition, Dr. Bizzell serves as an Assistant Editor of the NCPEA Connexions Project in charge of technical formatting and design.
+</item>
+	<item><emphasis>Janet Tareilo</emphasis>, is a Professor at Stephen F. Austin State University and serves as the Assistant Director of NCPEA Publications. Dr. Tareilo also serves as an Assistant Editor of the NCPEA Connexions Project and as a editor and reviewer for several national and international journals in educational leadership.</item></list><para id="id1167472203608"><emphasis>In this chapter, we will provide you with the steps and screenshots to select out a single group for analysis. In this circumstance, your data set consists of data from multiple groups. Your interest, however, is in obtaining statistics on only one specific group. Using SPSS for all students will only provide you with statistical information for all of the individuals, aggregated across all of the groups. It will not give you statistical information on a specific group. If you follow the steps and screenshots we provide, you can have SPSS generate statistics for the group of students in which you are interested.</emphasis></para>
+    <section id="id1167442856037">
+      <title/>
+      <para id="id1167471840525"><emphasis>This step presupposes that you have already opened up SPSS and your data file. Click on Variable View in the data window. </emphasis></para>
+      <para id="id1167471772151"><link url="1.1.png/image" window="new">
+		<media id="media1" alt="">
+			<image mime-type="image/png" src="../../media/1.1.png" id="figure1"/>
+		</media>
+	</link></para>
+      <para id="id1167455817811"><emphasis>Identify your grouping variable. It should be a nominal measure (see the far right column). In the example below, Recoded Instructional Expenditures into 3 groups, is our grouping variable. </emphasis></para>
+      
+      <para id="id1167455848501"><emphasis>Click on the Values cell for this grouping variable. Three dots will appear. These three dots indicate that a screen is hidden underneath this cell.</emphasis></para>
+      <para id="id1167471774533"><link url="1.3.png/image" window="new">
+		<media id="media3" alt="">
+			<image mime-type="image/png" src="../../media/1.3.png" id="figure3"/>
+		</media>
+	</link></para>
+      <para id="id8665253"><emphasis>Clicking on the three dots will reveal the hidden screen. After clicking on the three dots, this screen appears and shows us the names of the three groups.</emphasis> </para>
+      <para id="id1167471932170"><link url="1.4.png/image" window="new">
+		<media id="media4" alt="">
+			<image mime-type="image/png" src="../../media/1.4.png" id="figure4"/>
+		</media>
+	</link></para>
+      <para id="id1167445924228"><emphasis>For purposes of this chapter, we will have statistics calculated for group 1 which is the Poorest Financed School Districts. Now that we know that this group is numbered as group 1, we will cancel out of this screen.</emphasis> </para>
+      <para id="id1167471771275"><link url="1.5.png/image" window="new">
+		<media id="media5" alt="">
+			<image mime-type="image/png" src="../../media/1.5.png" id="figure5"/>
+		</media>
+	</link></para>
+      <para id="id1167444471973"><emphasis>Click on the data view screen.</emphasis></para>
+      <para id="id1167471719861"><link url="1.6.png/image" window="new">
+		<media id="media6" alt="">
+			<image mime-type="image/png" src="../../media/1.6.png" id="figure6"/>
+		</media>
+	</link></para>
+      <para id="id1167471827960"><emphasis>We are now at the data screen. To select out a specific group on which to have statistics calculated, click on Data.</emphasis></para>
+      <para id="id1167471712336"><emphasis>√ Data </emphasis></para>
+      <para id="id1167472206967"><link url="1.7.png/image" window="new">
+		<media id="media7" alt="">
+			<image mime-type="image/png" src="../../media/1.7.png" id="figure7"/>
+		</media>
+	</link></para>
+      <para id="id1167444575463"><emphasis>√ Select Cases </emphasis></para>
+      <para id="id1167455877070"><link url="1.9.png/image" window="new">
+		<media id="media9" alt="">
+			<image mime-type="image/png" src="../../media/1.9.png" id="figure9"/>
+		</media>
+	</link></para>
+      <para id="id1167471729036"><emphasis>You will note that All Cases is checked. You should click on the </emphasis></para>
+      <para id="id1167456092780"><emphasis>√ If Condition is satisfied </emphasis></para>
+      <para id="id1167471928513"><link url="1.10.png/image" window="new">
+		<media id="media10" alt="">
+			<image mime-type="image/png" src="../../media/1.10.png" id="figure10"/>
+		</media>
+	</link></para>
+      <para id="id8664835"><emphasis>When you click on the If Condition is satisfied, the If button then becomes activated.</emphasis></para>
+      <para id="id1167443785412"><emphasis>√ Click on the If, under the If Condition is satisfied. </emphasis></para>
+      <para id="id1167444131089"><link url="1.11.png/image" window="new">
+		<media id="media11" alt="">
+			<image mime-type="image/png" src="../../media/1.11.png" id="figure11"/>
+		</media>
+	</link></para>
+      <para id="id1167445124970"><emphasis>Clicking on the If opens up this screen. We will have to send over the name of the grouping variable, Recoded Instructional Expenditures into 3 groups. </emphasis></para>
+      <para id="id3325447"><link url="1.12.png/image" window="new">
+		<media id="media12" alt="">
+			<image mime-type="image/png" src="../../media/1.12.png" id="figure12"/>
+		</media>
+	</link></para>
+      <para id="id1167448108492"><emphasis>√ Click on the Recoded Instructional Expenditures into 3 groups variable and then on the right arrow key.</emphasis> </para>
+      <para id="id1167459841245"><link url="1.13.png/image" window="new">
+		<media id="media13" alt="">
+			<image mime-type="image/png" src="../../media/1.13.png" id="figure13"/>
+		</media>
+	</link></para>
+      <para id="id1167450882495"><emphasis>Now the grouping variable has been placed into the empty rectangle, we can now begin the process of selecting the specific group of interest.</emphasis></para>
+      <para id="id1167471700809"><emphasis>√ Click on the = sign </emphasis></para>
+      <para id="id1167445600579"><link url="1.14.png/image" window="new">
+		<media id="media14" alt="">
+			<image mime-type="image/png" src="../../media/1.14.png" id="figure14"/>
+		</media>
+	</link></para>
+      <para id="id1167457912912"><emphasis>After clicking on the = sign, it appears to the right of the grouping variable in the rectangle.</emphasis></para>
+      <para id="id1167442269808"><emphasis>√ Click on the number of the group on which you want to calculate statistics. In our case, we want to use group # 1 (remember our previous steps in identifying the Poorest Financed School Districts.</emphasis></para>
+      <para id="id1167470734411"><emphasis>In this case we will click on 1. </emphasis></para>
+      <para id="id1167442270130"><link url="1.15.png/image" window="new">
+		<media id="media15" alt="">
+			<image mime-type="image/png" src="../../media/1.15.png" id="figure15"/>
+		</media>
+	</link></para>
+      <para id="id1167444357632"><emphasis>We have now informed SPSS that we want to select out only those Poorest Financed School Districts for statistical analyses.</emphasis></para>
+      <para id="id1167455802714"><link url="1.16.png/image" window="new">
+		<media id="media16" alt="">
+			<image mime-type="image/png" src="../../media/1.16.png" id="figure16"/>
+		</media>
+	</link></para>
+      <para id="id1167443168586"><emphasis>√ Click on Continue above. </emphasis></para>
+      <para id="id1167442647904"><emphasis>√ After clicking on continue, this screen appears.</emphasis></para>
+      <para id="id1167442287175"><emphasis>√ Click on OK. </emphasis></para>
+      <para id="id1167443386091"><link url="1.17.png/image" window="new">
+		<media id="media17" alt="">
+			<image mime-type="image/png" src="../../media/1.17.png" id="figure17"/>
+		</media>
+	</link></para>
+      <para id="id1167442270773"><emphasis>You will now be sent to your output file. Click on the data file and data view.</emphasis></para>
+      <para id="id1167443376086"><emphasis>In the data view screen, you will note that the Moderately Financed School Districts and the Best Financed School Districts have been marked through. The only active cases on which SPSS will calculate statistics are the Poorest Financed School Districts (group = 1).</emphasis> </para>
+      <para id="id1167442668093"><link url="1.18.png/image" window="new">
+		<media id="media18" alt="">
+			<image mime-type="image/png" src="../../media/1.18.png" id="figure18"/>
+		</media>
+	</link></para>
+      <para id="id1167442289533"><emphasis>At this point, you can calculate descriptive statistics or other analyses. Such calculations will only have the Poorest Financed School Districts in them.</emphasis> </para>
+      <para id="id1167450378302"><emphasis>After obtaining the calculations of interest for this group, if you wish to select the Best Financed School Districts, you would follow the steps above in selecting group 1. Replace group = 1, with group = 2.</emphasis></para>
+      <para id="id1167442644652"><emphasis>If you intend to analyze all cases (i.e., have all three groups back together), follow these steps.</emphasis></para>
+      <para id="id1167455820834"><emphasis>√ Click on Data </emphasis></para>
+      <para id="id1167446581769"><emphasis>√ Click on Select Cases</emphasis> </para>
+      <para id="id1167443817444"><link url="1.19.png/image" window="new">
+		<media id="media19" alt="">
+			<image mime-type="image/png" src="../../media/1.19.png" id="figure19"/>
+		</media>
+	</link></para>
+      <para id="id1167446578482"><emphasis>After clicking on Select Cases, this screen will appear.</emphasis></para>
+      <para id="id1167443060179"><link url="1.20.png/image" window="new">
+		<media id="media20" alt="">
+			<image mime-type="image/png" src="../../media/1.20.png" id="figure20"/>
+		</media>
+	</link></para>
+      <para id="id1167445711265"><emphasis>√ Click on All Cases </emphasis></para>
+      <para id="id1167442266322"><link url="1.21.png/image" window="new">
+		<media id="media21" alt="">
+			<image mime-type="image/png" src="../../media/1.21.png" id="figure21"/>
+		</media>
+	</link></para>
+      <para id="id1167446676933"><emphasis>√ Click on OK above. </emphasis></para>
+      <para id="id1167445712156"><emphasis>You will now note that no cases are crossed through. SPSS will now use all three groups in its analyses.</emphasis></para>
+      <para id="id1167471711218"><link url="1.22.png/image" window="new">
+		<media id="media22" alt="">
+			<image mime-type="image/png" src="../../media/1.22.png" id="figure22"/>
+		</media>
+	</link></para>
+    </section>
+  </content>
+</document>

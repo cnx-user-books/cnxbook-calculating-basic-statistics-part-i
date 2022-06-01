@@ -1,0 +1,78 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Internal Consistency Analysis: Part II</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40718</md:content-id>
+  <md:title>Internal Consistency Analysis: Part II</md:title>
+  <md:abstract/>
+  <md:uuid>589535c6-2845-44fe-8293-c4da6e28fcdc</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-113"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-745">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.
+
+</note><list id="eip-820" list-type="labeled-item"><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+	<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+</list><para id="id1169413780410"><emphasis>Now that you are in the SPSS output screen, your screen should resemble the following one. </emphasis></para>
+    <para id="id1169393647194"><emphasis>The first table, labeled Case Processing Summary, indicates how many cases were in the analysis. In this example, 1,136 cases out of the total sample of 1,182 were used in the analysis.</emphasis></para>
+    <para id="id1169396886073"><link url="6.1.png/image" window="new">
+		<media id="media1" alt="">
+			<image mime-type="image/png" src="../../media/6.1.png" id="figure1"/>
+		</media>
+	</link></para>
+    <para id="id1169395923342"><emphasis>The next table titled Reliability Statistics indicates the score reliability for these five Verbal subscales. The Cronbach’s Coefficient Alpa is .872 for these five Verbal subscales.</emphasis></para>
+    <para id="id1169392331316"><link url="6.2.png/image" window="new">
+		<media id="media2" alt="">
+			<image mime-type="image/png" src="../../media/6.2.png" id="figure2"/>
+		</media>
+	</link></para>
+    <para id="id1169403272450"><emphasis>The table, labeled as Item Statistics, below the Reliability Statistics table contains the descriptive statistics for these five Verbal subscales for all participants in the sample. This information may be helpful in your Results section.</emphasis></para>
+    <para id="id1169394469172"><link url="6.3.png/image" window="new">
+		<media id="media3" alt="">
+			<image mime-type="image/png" src="../../media/6.3.png" id="figure3"/>
+		</media>
+	</link></para>
+    <para id="id1169396799468"><emphasis>The next table of importance is the one labeled Item-Total Statistics. The far right column of this table, Cronbach’s Alpha if Item Deleted, indicates how much of a change in internal consistency will occur if you delete that variable from the group. As our Cronbach’s Coefficient Alpha for all 5 Verbal subscales was .872, as previously noted, no increase occurs in the internal consistency if any of the 5 Verbal subscales are deleted.</emphasis></para>
+    <para id="id1169395636891"><link url="6.4.png/image" window="new">
+		<media id="media4" alt="">
+			<image mime-type="image/png" src="../../media/6.4.png" id="figure4"/>
+		</media>
+	</link></para>
+    <para id="id1169395634223"><emphasis>The next column in this table that we examine is the one labeled Corrected Item-Total Correlation. These values indicate the extent to which each variable is related with the group of variables, in this case with the total of the Verbal subscales. The higher the correlation, the more that item/variable is associated with the total of the group. The values in this column reflect that these five Verbal subscales are consistently contributing to the measurement of the same/similar construct.</emphasis></para>
+    <para id="id1169394457576"><link url="6.5.png/image" window="new">
+		<media id="media5" alt="">
+			<image mime-type="image/png" src="../../media/6.5.png" id="figure5"/>
+		</media>
+	</link></para>
+    <para id="id4835908"><emphasis>In the case of the five Verbal subscales, all five subscales may be regarded as providing internally consistent scores. Moreover, their scores can be aggregated or added together to create a composite score. See our chapter on data transformation – creating a new variable.</emphasis></para>
+    <para id="id1169392220723"><emphasis>Now that we have determined the internal consistency of the Verbal subscales, we will ascertain the extent to which the Performance subscales are internally consistent.</emphasis></para>
+    <para id="id1169401225045"><emphasis>From the data window, click on Analyze</emphasis></para>
+    <para id="id1169394124848"><link url="6.6.png/image" window="new">
+		<media id="media6" alt="">
+			<image mime-type="image/png" src="../../media/6.6.png" id="figure6"/>
+		</media>
+	</link></para>
+    <para id="id1169396978110"><emphasis>After clicking on Analyze,</emphasis></para>
+    <para id="id1169394785728"><emphasis>Click on Scale.</emphasis></para>
+    <para id="id1169397695629"><emphasis>Click on Reliability Analysis.</emphasis></para>
+    <para id="id1169393245488"><link url="6.7.png/image" window="new">
+		<media id="media7" alt="">
+			<image mime-type="image/png" src="../../media/6.7.png" id="figure7"/>
+		</media>
+	</link></para>
+    <para id="id1169388430139"><emphasis>Because this reliability analysis is the second one you are conducting, the screen shows the five Verbal subtests included in the first analysis. Remove these from the Items box.</emphasis></para>
+    <para id="id1169397922745"><link url="6.8.png/image" window="new">
+		<media id="media8" alt="">
+			<image mime-type="image/png" src="../../media/6.8.png" id="figure8"/>
+		</media>
+	</link></para>
+    <para id="id1169383128259"><emphasis>Your screen will now look like the following one. Now we will determine the internal consistency of the Performance subscales. From the factor analysis chapter, Performance 2 was determined to not be part of this cluster or group of subscales. Therefore, we will place only Performance 1 (Picture Completion), Performance 3 (Picture Arrangement), Performance 4 (Block Design), and Performance 5 (Object Assembly) in the Items box.</emphasis></para>
+    <para id="id1169414352190"><link url="6.9.png/image" window="new">
+		<media id="media9" alt="">
+			<image mime-type="image/png" src="../../media/6.9.png" id="figure9"/>
+		</media>
+	</link></para>
+  </content>
+</document>

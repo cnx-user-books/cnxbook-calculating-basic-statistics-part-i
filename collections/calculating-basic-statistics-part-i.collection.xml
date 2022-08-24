@@ -1,3 +1,23 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11347</md:content-id>  <md:title>Calculating Advanced Statistics:Part I</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>9798102f-043f-4856-bc4b-0a07d80a14a8</md:uuid>
-<md:slug>calculating-basic-statistics-part-i</md:slug>
-</metadata>  <col:content>          <col:module document="m40743"/>                            <col:module document="m40632"/>                            <col:module document="m40708"/>                            <col:module document="m40709"/>                            <col:module document="m40713"/>                            <col:module document="m40717"/>                            <col:module document="m40718"/>                            <col:module document="m40721"/>                            <col:module document="m40725"/>                            <col:module document="m40727"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="National Council of Professors  of Educational Administration">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11347</md:content-id>
+    <md:title>Calculating Advanced Statistics:Part I</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>9798102f-043f-4856-bc4b-0a07d80a14a8</md:uuid>
+    <md:slug>calculating-basic-statistics-part-i</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m40743"/>
+    <col:module document="m40632"/>
+    <col:module document="m40708"/>
+    <col:module document="m40709"/>
+    <col:module document="m40713"/>
+    <col:module document="m40717"/>
+    <col:module document="m40718"/>
+    <col:module document="m40721"/>
+    <col:module document="m40725"/>
+    <col:module document="m40727"/>
+  </col:content>
+</col:collection>
